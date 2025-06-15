@@ -1,4 +1,4 @@
-Math Expression Parser & Interpreter (CLI-Based)
+# Math Expression Parser & Interpreter (CLI-Based)
 
 A fully interactive command-line tool written in **TypeScript** that demonstrates how simple **interpreters** parse and evaluate math expressions. It breaks down how compilers and interpreters work under the hood, step-by-step, from tokenizing raw text to parsing it into structured trees and finally evaluating results.
 
